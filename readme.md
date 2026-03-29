@@ -47,7 +47,7 @@ git clone https://github.com/mukul1421/CardioPredict-ML
 
 Navigate to project folder:
 
-cd your-repo-name
+cd CardioPredict-ML
 
 Create virtual environment:
 
