@@ -43,7 +43,7 @@ A Machine Learning web application that predicts the risk of heart disease using
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mukul1421/CardioPredict-ML
 
 Navigate to project folder:
 
